@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "/home/vboxuser/Documents/PIBITI/projeto-laravel/database/database.sqlite"
+  }
+]
